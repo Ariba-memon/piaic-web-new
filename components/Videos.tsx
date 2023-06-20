@@ -38,9 +38,9 @@ export default function Videos() {
         </div>
         <div className="mb-4">
           <img
-            src="https://media.licdn.com/dms/image/C4D03AQE1Hzv61ccMVw/profile-displayphoto-shrink_800_800/0/1556048207367?e=2147483647&v=beta&t=KjDz0Y-aELrRyRuqh_mj8oCSwUimyoK66DqheBx8aMk"
+            src="https://panaverse-dao-complete-syllabus.vercel.app/_next/image?url=%2Fassets%2Finstructors%2Fsir-daniyal.jpg&w=384&q=75"
             className="h-auto w-full rounded-full shadow-md shadow-black/20 dark:shadow-white/20"
-            alt="Los Angeles Skyscrapers"
+            alt="  Sir Daniyal Nagori"
           />
           <br />
           <figcaption className="text-center text-neutral-600 dark:text-neutral-400">

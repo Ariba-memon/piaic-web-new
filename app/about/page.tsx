@@ -1,5 +1,5 @@
 'use client'
-import { Carousel, LeftButton, RightButton } from 'chakra-ui-carousel'
+
 import {
   Link,
   Avatar,
